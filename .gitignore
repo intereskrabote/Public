@@ -1,24 +1,4 @@
 ```
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Environment
-.env
-.env.local
-*.env.*
-
-# Logs and temporary files
-*.log
-*.tmp
-
-# Editors
-.vscode/
-.idea/
-
-# Dependencies
-.venv/
-venv/
+# No build artifacts, dependencies, or temporary files detected in changes
+# Only source/config files present (.md, .txt, .json), so keeping .gitignore empty
 ```
